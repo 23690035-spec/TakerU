@@ -1,0 +1,43 @@
+# Dependencias
+node_modules/
+**/node_modules/
+
+# Secretos y variables de entorno
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Expo y React Native
+.expo/
+web-build/
+dist/
+
+# Android y compilaciones
+android/.gradle/
+android/app/build/
+*.apk
+*.aab
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Registros
+npm-debug.log*
+yarn-debug.log*
+
+# Copias auxiliares que no forman parte del proyecto principal
+/files (1)/
+/tecsolv/
+/build-apk.yml
+
+# Credenciales y archivos de configuración local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
