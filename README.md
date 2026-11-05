@@ -1,4 +1,4 @@
-# TecSolv
+# TaskerU
 
 App móvil de gestión académica (React Native + Expo). Registro e inicio de sesión, tareas con fecha límite, estado y prioridad, almacenamiento local.
 
