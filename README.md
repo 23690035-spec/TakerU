@@ -7,6 +7,8 @@ App móvil de gestión académica (React Native + Expo). Registro e inicio de se
 1. Entra a la pestaña **Releases** de este repositorio.
 2. Descarga `TecSolv.apk` de la versión más reciente.
 3. Ábrelo en tu Android y permite instalar apps de origen desconocido si te lo pide.
+4. Manual de Usuario:
+   https://drive.google.com/file/d/1n0uIqbC5-i8nyKWjulNb5QYQgA1c-D2l/view?usp=sharing
 
 La app avisa sola cuando hay una versión nueva al abrirla.
 
